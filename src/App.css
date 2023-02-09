@@ -1,0 +1,13 @@
+.app{
+  display: flex;
+}
+.menuContainer{
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+}
+.contentContainer{
+  display: flex;
+  flex: 4;
+  flex-direction: column;
+}
